@@ -1,7 +1,7 @@
 Package.describe({
   name: 'matdutour:outdated-browser',
-  version: '0.1.0',
-  summary: 'A clean and easy to use confirmation popup',
+  version: '0.1.1',
+  summary: 'Detects outdated browsers and advises users to upgrade to a new version.',
   git: 'https://github.com/mathieudutour/Meteor-outdated-browser.git',
   documentation: 'README.md'
 });
