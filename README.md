@@ -4,7 +4,7 @@ Meteor version of [Outdated Browser v1.1.0](https://github.com/burocratik/outdat
 Installation
 ============
 
-    $ meteor add matdutour:oudated-browser
+    $ meteor add matdutour:outdated-browser
 
 Usage
 =====
